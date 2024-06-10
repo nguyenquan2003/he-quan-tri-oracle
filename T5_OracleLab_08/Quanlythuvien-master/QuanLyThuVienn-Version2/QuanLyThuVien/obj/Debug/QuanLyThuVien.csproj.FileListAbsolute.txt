@@ -1,0 +1,291 @@
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\ResolveAssemblyReference.cache
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatsach.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Main.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.timkiem.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatdocgia.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.thongtinmuon.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatnhanvien.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatLv.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatNXB.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatTG.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.DoiMatKhau.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TaoTaiKhoan.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.BCTinhTrangSach.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.BCDocGia.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttDocgia.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttLinhVuc.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttNXB.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttSach.resources
+D:\Bài Tập\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttTacgia.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+D:\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\ResolveAssemblyReference.cache
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.BCDocGia.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.BCTinhTrangSach.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatdocgia.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatLv.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatnhanvien.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatNXB.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatsach.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatTG.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.DoiMatKhau.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Main.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TaoTaiKhoan.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.thongtinmuon.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.timkiem.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttDocgia.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttLinhVuc.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttNXB.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttSach.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttTacgia.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TimkiemDG.resources
+D:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.KiemTraTTNhanVien.resources
+E:\lap trinh c#\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+E:\lap trinh c#\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+E:\lap trinh c#\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.BCDocGia.resources
+E:\lap trinh c#\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.BCTinhTrangSach.resources
+E:\lap trinh c#\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatdocgia.resources
+E:\lap trinh c#\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatLv.resources
+E:\lap trinh c#\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatnhanvien.resources
+E:\lap trinh c#\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatNXB.resources
+E:\lap trinh c#\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatsach.resources
+E:\lap trinh c#\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatTG.resources
+E:\lap trinh c#\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.DoiMatKhau.resources
+E:\lap trinh c#\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.KiemTraTTNhanVien.resources
+E:\lap trinh c#\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.Main.resources
+E:\lap trinh c#\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.TaoTaiKhoan.resources
+E:\lap trinh c#\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.thongtinmuon.resources
+E:\lap trinh c#\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.timkiem.resources
+E:\lap trinh c#\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+E:\lap trinh c#\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.TimkiemDG.resources
+E:\lap trinh c#\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttDocgia.resources
+E:\lap trinh c#\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttLinhVuc.resources
+E:\lap trinh c#\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttNXB.resources
+E:\lap trinh c#\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttSach.resources
+E:\lap trinh c#\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttTacgia.resources
+E:\lap trinh c#\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+E:\lap trinh c#\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+E:\lap trinh c#\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+E:\lap trinh c#\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\Admin\Desktop\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\Admin\Desktop\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\Admin\Desktop\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.BCDocGia.resources
+C:\Users\Admin\Desktop\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.BCTinhTrangSach.resources
+C:\Users\Admin\Desktop\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatdocgia.resources
+C:\Users\Admin\Desktop\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatLv.resources
+C:\Users\Admin\Desktop\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatnhanvien.resources
+C:\Users\Admin\Desktop\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatNXB.resources
+C:\Users\Admin\Desktop\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatsach.resources
+C:\Users\Admin\Desktop\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatTG.resources
+C:\Users\Admin\Desktop\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.DoiMatKhau.resources
+C:\Users\Admin\Desktop\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.KiemTraTTNhanVien.resources
+C:\Users\Admin\Desktop\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.Main.resources
+C:\Users\Admin\Desktop\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.TaoTaiKhoan.resources
+C:\Users\Admin\Desktop\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.thongtinmuon.resources
+C:\Users\Admin\Desktop\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.timkiem.resources
+C:\Users\Admin\Desktop\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\Admin\Desktop\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.TimkiemDG.resources
+C:\Users\Admin\Desktop\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttDocgia.resources
+C:\Users\Admin\Desktop\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttLinhVuc.resources
+C:\Users\Admin\Desktop\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttNXB.resources
+C:\Users\Admin\Desktop\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttSach.resources
+C:\Users\Admin\Desktop\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttTacgia.resources
+C:\Users\Admin\Desktop\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\Admin\Desktop\[Sharecode.vn] Code chuong trinh quan ly thu vien full code c#\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.BCDocGia.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.BCTinhTrangSach.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatdocgia.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatLv.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatnhanvien.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatNXB.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatsach.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatTG.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.DoiMatKhau.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.KiemTraTTNhanVien.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Main.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TaoTaiKhoan.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.thongtinmuon.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.timkiem.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.TimkiemDG.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttDocgia.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttLinhVuc.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttNXB.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttSach.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttTacgia.resources
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\Admin\Desktop\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\obj\Debug\QuanLyThuVien.BCDocGia.resources
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\obj\Debug\QuanLyThuVien.BCTinhTrangSach.resources
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatdocgia.resources
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatLv.resources
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatnhanvien.resources
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatNXB.resources
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatsach.resources
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\obj\Debug\QuanLyThuVien.capnhatTG.resources
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\obj\Debug\QuanLyThuVien.DoiMatKhau.resources
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\obj\Debug\QuanLyThuVien.KiemTraTTNhanVien.resources
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\obj\Debug\QuanLyThuVien.Main.resources
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\obj\Debug\QuanLyThuVien.TaoTaiKhoan.resources
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\obj\Debug\QuanLyThuVien.thongtinmuon.resources
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\obj\Debug\QuanLyThuVien.timkiem.resources
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\obj\Debug\QuanLyThuVien.TimkiemDG.resources
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttDocgia.resources
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttLinhVuc.resources
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttNXB.resources
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttSach.resources
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\obj\Debug\QuanLyThuVien.ttTacgia.resources
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\Devart.Data.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\Devart.Data.Oracle.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CopyComplete
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\netstandard.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.AppContext.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Collections.Concurrent.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Collections.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Collections.NonGeneric.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Collections.Specialized.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.ComponentModel.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Console.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Data.Common.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Diagnostics.Debug.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Diagnostics.Process.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Diagnostics.Tools.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Drawing.Primitives.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Dynamic.Runtime.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Globalization.Calendars.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Globalization.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Globalization.Extensions.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.IO.Compression.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.IO.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.IO.FileSystem.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.IO.Pipes.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Linq.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Linq.Expressions.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Linq.Parallel.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Linq.Queryable.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Net.Http.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Net.NameResolution.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Net.NetworkInformation.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Net.Ping.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Net.Primitives.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Net.Requests.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Net.Security.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Net.Sockets.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Net.WebSockets.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.ObjectModel.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Reflection.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Reflection.Extensions.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Reflection.Primitives.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Resources.Reader.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Resources.ResourceManager.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Resources.Writer.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Runtime.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Runtime.Extensions.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Runtime.Handles.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Runtime.InteropServices.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Runtime.Numerics.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Security.Claims.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Security.Principal.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Security.SecureString.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Text.Encoding.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Text.RegularExpressions.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Threading.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Threading.Overlapped.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Threading.Tasks.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Threading.Thread.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Threading.ThreadPool.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Threading.Timer.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Xml.XDocument.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Xml.XmlDocument.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Xml.XPath.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Buffers.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Memory.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Numerics.Vectors.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Security.AccessControl.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Security.Permissions.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Security.Principal.Windows.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Text.Encodings.Web.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Text.Json.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.ValueTuple.dll
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Buffers.xml
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Memory.xml
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Numerics.Vectors.xml
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Security.AccessControl.xml
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Security.Permissions.xml
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Security.Principal.Windows.xml
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Text.Encodings.Web.xml
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Text.Json.xml
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Quanlythuvien-master\QuanLyThuVienn-Version2\QuanLyThuVien\bin\Debug\System.ValueTuple.xml
